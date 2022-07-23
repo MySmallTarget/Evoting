@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    //引入FISCO BCOS Java SDK
+    maven {
+        allowInsecureProtocol = true
+        url "http://maven.aliyun.com/nexus/content/groups/public/"
+    }
+    maven {
+        allowInsecureProtocol = true
+        url "https://oss.sonatype.org/content/repositories/snapshots"
+    }
+}
+//配置SDK证书,引入spring框架
+def spring_version = "4.3.27.RELEASE"
+List spring = [
+        "org.springframework:spring-core:$spring_version",
+        "org.springframework:spring-beans:$spring_version",
+        "org.springframework:spring-context:$spring_version",
+        "org.springframework:spring-tx:$spring_version",
+]
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    //引入Java SDK jar包
+    implementation ('org.fisco-bcos.java-sdk:fisco-bcos-java-sdk:2.9.0')
+    implementation spring
+}

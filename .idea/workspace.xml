@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5fc6b28-7cd6-4490-84ca-c7621488da0a" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Evoting" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2C1qM7ksCIQ9C0uG3vWxZCDa4YR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cusprotect" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5fc6b28-7cd6-4490-84ca-c7621488da0a" name="默认更改列表" comment="" />
+      <created>1657980387581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657980387581</updated>
+      <workItem from="1657980389313" duration="36000" />
+      <workItem from="1658022376048" duration="2110000" />
+      <workItem from="1658547147089" duration="3021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658023803385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1658023803385" />
+    <state x="689" y="205" key="FileChooserDialogImpl" timestamp="1658548057134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="205" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1658548057134" />
+    <state x="340" y="78" key="SettingsEditor" timestamp="1658548071865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1658548071865" />
+    <state x="589" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1658547148195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658547148195" />
+  </component>
+</project>
